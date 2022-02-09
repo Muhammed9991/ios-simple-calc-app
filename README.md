@@ -1,1 +1,1 @@
-# ios-simple-calc-app
+Simple iOS calc app
